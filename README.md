@@ -15,3 +15,13 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaviraj-j&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaviraj-&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraj-j&layout=compact&theme=radical" />
+</p>
+
+---
