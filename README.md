@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaviraj-j&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaviraj-&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaviraj-j&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviraj-j&layout=compact&theme=radical" />
 </p>
 
