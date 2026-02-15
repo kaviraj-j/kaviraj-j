@@ -10,10 +10,11 @@
 
 ### 🆕 Latest Projects
 
-- **[frontman](https://github.com/kaviraj-j/frontman)** – Reverse proxy and load balancer implementation in Go  
-- **[dispatch](https://github.com/kaviraj-j/dispatch)** – Minimal task queue system written in Go  
-- **[redis-go](https://github.com/kaviraj-j/redis-go)** – My implementation of Redis (lists, sets, etc.)
-- **[httpfromtcp](https://github.com/kaviraj-j/httpfromtcp)** – A HTTP server written from scratch by lifting HTTP logic from raw TCP
+🚀 **[frontman](https://github.com/kaviraj-j/frontman)** – Reverse proxy and load balancer implementation in Go  
+🌐 **[go-tunnel](https://github.com/kaviraj-j/go-tunnel)** – HTTP Tunnel implementation (similar to ngrok)  
+📦 **[dispatch](https://github.com/kaviraj-j/dispatch)** – Minimal task queue system written in Go  
+🧠 **[redis-go](https://github.com/kaviraj-j/redis-go)** – My implementation of Redis (lists, sets, etc.)  
+🔌 **[httpfromtcp](https://github.com/kaviraj-j/httpfromtcp)** – An HTTP server written from scratch by lifting HTTP logic from raw TCP
 
 ## 🔍 What I'm Doing
 
