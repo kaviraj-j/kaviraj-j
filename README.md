@@ -10,7 +10,7 @@
 
 ### 🆕 Latest Projects
 
-🗄️ **[toydb](https://github.com/kaviraj-j/toydb)** – A toy relational database built from scratch (parser, planner, execution engine)
+🗄️ **[toydb](https://github.com/kaviraj-j/toydb)** – A toy relational database built from scratch (parser, planner, execution engine)  
 🚀 **[frontman](https://github.com/kaviraj-j/frontman)** – Reverse proxy and load balancer implementation in Go  
 🌐 **[go-tunnel](https://github.com/kaviraj-j/go-tunnel)** – HTTP Tunnel implementation (similar to ngrok)  
 📦 **[dispatch](https://github.com/kaviraj-j/dispatch)** – Minimal task queue system written in Go  
