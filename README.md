@@ -10,6 +10,7 @@
 
 ### 🆕 Latest Projects
 
+🎯 **[MockDeck](https://github.com/MockDeck/MockDeck)** – Role-specific interview simulation platform. Configure sessions, generate tailored questions, run interviews, and get evaluated — all in the browser  
 🗄️ **[toydb](https://github.com/kaviraj-j/toydb)** – A toy relational database built from scratch (parser, planner, execution engine)  
 🚀 **[frontman](https://github.com/kaviraj-j/frontman)** – Reverse proxy and load balancer implementation in Go  
 🌐 **[go-tunnel](https://github.com/kaviraj-j/go-tunnel)** – HTTP Tunnel implementation (similar to ngrok)  
